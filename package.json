@@ -1,0 +1,14 @@
+{
+  "name": "cowsay",
+  "version": "1.0.0",
+  "description": "tu devras installer un paquet appelé CowSay",
+  "main": "information.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehdi",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
